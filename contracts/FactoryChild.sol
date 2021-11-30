@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: MIT
-// Token Address: https://testnet.bscscan.com/token/0x630374a2766819e267074eeb4b7bec93d16fe639
 pragma solidity ^0.8.10;
 
 contract Factory {
